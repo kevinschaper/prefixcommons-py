@@ -42,6 +42,7 @@
         "EOM": "http://purl.obolibrary.org/obo/EOM_",
         "ERO": "http://purl.obolibrary.org/obo/ERO_",
         "EcoGene": "http://ecogene.org/gene/",
+        "FB": "http://flybase.org/reports/",
         "FBbt": "http://purl.obolibrary.org/obo/FBbt_",
         "FBcv": "http://purl.obolibrary.org/obo/FBcv_",
         "FBdv": "http://purl.obolibrary.org/obo/FBdv_",
